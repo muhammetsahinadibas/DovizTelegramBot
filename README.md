@@ -1,6 +1,6 @@
 # DovizTelegramBot
 
-Her saat başında bir (ör: 13:00, 18:00, 00:00) Telegram kanalında güncel döviz kurunu paylaşan Telegram botu.
+Her saat başında (ör: 13:00, 18:00, 00:00), Telegram kanalında güncel döviz kurunu paylaşan Telegram botu.
 
 ### 🚀 Aktif olarak çalışan hali: https://t.me/kurfiyatlari
 
