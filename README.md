@@ -34,6 +34,10 @@ go get github.com/PuerkitoBio/goquery
     ```sh
     go run main.go
     ```
+    Kodu arka planda çalıştırmak için:
+    ```sh
+    nohup go run main.go &
+    ```
 ## 📫 İletişim
 [Twitter](https://twitter.com/muhammetadibas) <br>
 [Linkedln](https://linkedin.com/in/muhammetadibas) </br>
